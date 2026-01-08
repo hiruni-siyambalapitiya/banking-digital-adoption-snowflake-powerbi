@@ -4,6 +4,9 @@
 
 Snowflake + Power BI Project
 
+ #  vedio how to  connect the power bi with snowflake
+ https://drive.google.com/file/d/1bi_0l84wo2BXwWXfQDn67D3LAFkDTG5R/view?usp=drive_link
+ 
 📌 Project Overview
 
 This project analyzes digital banking adoption using customer behavior, login activity, and transaction data.
